@@ -11,6 +11,6 @@ KLB and its ImageJ integration are available through an ImageJ update site at ht
 
 ## Build JNI library from source
   - install Maven
-  - navigate to the javaWrapper subfolder
+  - navigate the root of the git repository
   - run "mvn clean package"
   - the JAR file will be built at "javaWrapper/target/klb-[version].jar"
